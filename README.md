@@ -1,2 +1,1 @@
-# wisdomTree
-Mirror of https://github.com/wangzexi/ZhiHuiShu-Assistant
+[Usage](https://github.com/Wasdns/wisdomTree/wiki/Usage#usage)
